@@ -1,8 +1,8 @@
 export default function Home() {
   return (
-    <div style={{ padding: '50px', textAlign: 'center' }}>
-      <h1>Hello from Vercel 🎉</h1>
-      <p>Now your project is working!</p>
+    <div style={{ padding: 40 }}>
+      <h1>🚀 Все працює!</h1>
+      <p>Це твій новий Next.js сайт на Vercel</p>
     </div>
   );
 }
