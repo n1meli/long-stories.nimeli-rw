@@ -1,5 +1,5 @@
 {
-  "name": "my-ai-video-app",
+  "name": "ai-video-builder",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
@@ -7,8 +7,9 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "13.5.0",
+    "next": "13.4.19",
     "react": "18.2.0",
     "react-dom": "18.2.0"
-  }
+  },
+  "devDependencies": {}
 }
